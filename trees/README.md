@@ -33,3 +33,7 @@ Contains
 
 Argument: value
 Returns: boolean indicating whether or not the value is in the tree at least once.
+
+Credit:
+
+Daniel Dills, Anthony Williams
